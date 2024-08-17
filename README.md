@@ -6,10 +6,14 @@ Upon launching the software, a splash screen appears, prompting the user to pres
 
 The LoginForm handles the authentication process, verifying the user's credentials and determining their access level (user or admin). The database connection is managed through the SQLConnect class, which is responsible for all database queries, including login, registration, browsing, and editing operations. This class supports various SQL operations such as SELECT, SELECT WHERE, INSERT, DELETE, UPDATE, and more.
 
+Slash screen:
 ![Splash screen](/UI%20Pictures/SplashScreen.png)
 
+Login or register screen:
 ![Login or register screen](/UI%20Pictures/LoginRegister.png)
 
+User screen:
 ![User screen](/UI%20Pictures/UserScreen.png)
 
+Admin screen:
 ![Admin screen](/UI%20Pictures/AdminScreen.png)
